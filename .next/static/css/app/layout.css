@@ -703,11 +703,11 @@ video {
 .justify-between {
   justify-content: space-between;
 }
-.gap-4 {
-  gap: 1rem;
-}
 .gap-2 {
   gap: 0.5rem;
+}
+.gap-4 {
+  gap: 1rem;
 }
 .space-y-1 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-y-reverse: 0;
